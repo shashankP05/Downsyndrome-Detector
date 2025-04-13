@@ -51,7 +51,7 @@ This project is a deep learning-based application that detects Down syndrome fro
 
 5. Run the application:
     ```bash
-    python app.py
+    python GUI.py
     ```
 
 ## Usage
